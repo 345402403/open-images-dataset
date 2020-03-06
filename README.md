@@ -1,3 +1,4 @@
+googleV6 图片数据集（带标注）
 # Open Images Dataset
 Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories. This page aims to provide the download instructions and mirror sites for Open Images Dataset. Please visit the [project page](https://storage.googleapis.com/openimages/web/index.html) for more details on the dataset .
 
